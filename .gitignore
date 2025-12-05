@@ -1,0 +1,9 @@
+# Ansible retry files
+*.retry
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Logs
+*.log
